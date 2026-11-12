@@ -1,0 +1,51 @@
+{
+  "version": "1.0.4",
+  "apiVersion": "1",
+  "minimumWindows": "11",
+  "minimumMacOS": "14",
+  "sourceSha": "a2a026ca06a28edbcf6aaf0d374f1ea295471e2d",
+  "environment": "production",
+  "unsigned": true,
+  "notarized": false,
+  "artifacts": [
+    {
+      "apiVersion": "1",
+      "arch": "amd64",
+      "bytes": 4337067,
+      "environment": "production",
+      "filename": "recipe-genie-1.0.4-windows-amd64.zip",
+      "notarized": false,
+      "platform": "windows",
+      "sha256": "8a0b2fd3b0376e89819b5b4df7ca07c16b0186a13b9fb32b9ca1ba9f5adbc935",
+      "sourceSha": "a2a026ca06a28edbcf6aaf0d374f1ea295471e2d",
+      "unsigned": true,
+      "version": "1.0.4"
+    },
+    {
+      "apiVersion": "1",
+      "arch": "arm64",
+      "bytes": 3866583,
+      "environment": "production",
+      "filename": "recipe-genie-1.0.4-windows-arm64.zip",
+      "notarized": false,
+      "platform": "windows",
+      "sha256": "1dea216575bc95ad40824d897610385d7bb012f299a2898b8dee1f0fb26b29bd",
+      "sourceSha": "a2a026ca06a28edbcf6aaf0d374f1ea295471e2d",
+      "unsigned": true,
+      "version": "1.0.4"
+    },
+    {
+      "apiVersion": "1",
+      "arch": "universal",
+      "bytes": 8361340,
+      "environment": "production",
+      "filename": "recipe-genie-1.0.4-darwin-universal.zip",
+      "notarized": false,
+      "platform": "darwin",
+      "sha256": "f54aaadcaf153d8e5a185cdc7a0cbb12f654319a3757d2828a7d7e91253829c0",
+      "sourceSha": "a2a026ca06a28edbcf6aaf0d374f1ea295471e2d",
+      "unsigned": true,
+      "version": "1.0.4"
+    }
+  ]
+}
